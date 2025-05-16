@@ -1,0 +1,4 @@
+tk
+openai
+whisper
+ffmpeg-python
